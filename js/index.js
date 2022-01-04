@@ -1,7 +1,4 @@
-// console.log("Welcome Mr. Aadi");
-// IMP NOTE Predict result before compiling 
-// NOTE Dont repeat yourself 
-// IMP Write only relevant comments so that while revision you can go through each line confidently , being assured on its quality.
+// console.log("Welcome Mr. Aadi");y.
 
 // data : property , code : methods/behaviour
 // objects interact with eachother
