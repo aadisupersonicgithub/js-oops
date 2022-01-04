@@ -115,7 +115,7 @@ const nikhil = new Person('nikhil', 1999);
 // console.log(typeof null, typeof NaN, typeof false, typeof undefined);
 
 
-// NOTE Person.prototpye != prototype of person  RATHER  Person.prototpye != prototype of linked objects to Person ie
+// NOTE Person.prototpye != prototype of person  RATHER  Person.prototpye == prototype of linked objects to Person ie
 // console.log(Person.prototype.isPrototypeOf(aadi));
 // console.log(Person.prototype.isPrototypeOf(Person));
 
